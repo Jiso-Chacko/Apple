@@ -1,0 +1,311 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.header {
+    height: 50px;
+    background-color: #1D1D1F;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header p{
+    color: white;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    margin-top: 16px;
+}
+.header-box-1 {
+
+    width: 1065px;
+    height: 48px;
+    margin-left: 253px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.header-box-1 i {
+    color: white;
+    height: 20px;
+    margin-top: 16px;
+}
+
+.first-Image {
+    border: 1px solid;
+    height: 1142px;
+    width: auto;
+    background-color: slategray;
+}
+
+.div1 {
+    height: fit-content;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 50px;
+    height: 1142px;
+    width: 1515px;
+}
+
+.img1 {
+    height: fit-content;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 0px;
+    height: 1142px;
+    width: 1519px;
+}
+
+.first-image-fonts{
+    /* border: 1px solid; */
+    padding-top: 0px;
+margin-top: -411px;
+border-left-width: -6px;
+margin-left: 117px;
+height: 320px;
+width: 1244px;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+background-color: azure;
+color: azure;
+}
+.first-image-fonts h2{
+    font-size: 72px;
+    background: linear-gradient(to bottom, white,#799EFE);
+    background-clip: text ;
+    -webkit-text-fill-color: transparent;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
+.first-image-fonts h3{
+    font-size: 32px;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 268px;
+    color: white;
+}
+.second-image {
+    /* border: 1px solid; */
+    height: 1107px;
+    width: auto;
+    background-color: #FFFFFF;
+}
+
+.second-image-div-1 {
+    /* border: 1px solid; */
+    height: 450px;
+    width: 1354x;
+    margin-top: 150px;
+    width: 1180px;
+    margin-left: 163px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.third-image {
+    /* border: 1px solid; */
+    height: 1222px;
+    width: auto;
+    background-color: #FFFFFF;
+}
+
+.third-image h2{
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 72px;
+    
+}
+
+.third-image h3{
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    
+}
+.third-image-div-1{
+    /* border: 1px solid; */
+height: 464px;
+width: 500x;
+margin-top: 150px;
+width: 414px;
+margin-left: 82px;
+display: flex;
+flex-wrap: nowrap;
+align-content: center;
+justify-content: center;
+}
+
+.third-image-div-2{
+    /* border: 1px solid; */
+    height: 464px;
+    width: 500x;
+    margin-top: 113px;
+    width: 414px;
+    margin-left: 1038px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.third-image-div-3{
+    /* border: 1px solid; */
+height: 266px;
+width: 500x;
+margin-top: -1005px;
+width: 460px;
+margin-left: 708px;
+display: flex;
+flex-wrap: nowrap;
+align-content: center;
+justify-content: center;
+}
+
+.third-image-div-4{
+    /* border: 1px solid; */
+    height: 464px;
+    width: 500x;
+    margin-top: 258px;
+    width: 637px;
+    margin-left: 151px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.forth-image {
+    /* border: 1px solid; */
+    height: 1136px;
+    width: auto;
+    background-color: #FFFFFF;
+}
+
+.forth-image-div-1{
+    /* border: 1px solid; */
+    height: 464px;
+    width: 413x;
+    margin-top: 160px;
+    margin-left: 118px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    width: 413px;
+    
+}
+
+.forth-image-div-2{
+    /* border: 1px solid; */
+    height: 464px;
+    width: 500x;
+    margin-top: -432px;
+    width: 414px;
+    margin-left: 532px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.forth-image-div-3{
+    /* border: 1px solid; */
+    height: 464px;
+    width: 500x;
+    margin-top: -500px;
+    width: 414px;
+    margin-left: 947px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.forth-image-fonts{
+    /* border: 1px solid; */
+    padding-top: 0px;
+margin-top: 98px;
+border-left-width: -6px;
+margin-left: 117px;
+height: 320px;
+width: 1244px;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+
+}
+
+.forth-image-fonts h2{
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 72px;
+}
+
+.forth-image-fonts h3{
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+}
+.forth-image-fonts p{
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    opacity: 0.75;
+}
+/* footer */
+
+.footer {
+    /* border: 1px solid; */
+    height: 469px;
+    width: auto;
+    background-color: #1D1D1F;
+}
+
+/* trial */
+.footer-inner-titles {
+    height: 250px;
+    /* background-color: rgb(201, 159, 80); */
+    margin-left: 177px;
+    margin-right: 169px;
+    color: white;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; */
+
+}
+
+.footer-inner-titles h4{
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+}
+.footer-inner-titles p{
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+}
+.footer-inner-container {
+    display: flex;
+    /* background-color: rgb(201, 201, 177); */
+}
+
+.footer-inner-container>div {
+    /* background-color: #f1f1f1; */
+    margin: 10px;
+    padding: 47px;
+    font-size: 16px;
+}
+.horizontal-line-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
